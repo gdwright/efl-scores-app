@@ -1,0 +1,930 @@
+[
+  {
+    "Team": "AFC Wimbledon",
+    "StreakEndDate": "23/04/2016",
+    "HairLength": "121.59",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Accrington Stanley",
+    "StreakEndDate": "07/04/2018",
+    "HairLength": "96.6",
+    "ColorHex": "#E41E2B",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Aldershot",
+    "StreakEndDate": "03/03/2012",
+    "HairLength": "174.51",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Arsenal",
+    "StreakEndDate": "24/08/2024",
+    "HairLength": "15.015",
+    "ColorHex": "#EF0107",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Aston Villa",
+    "StreakEndDate": "19/04/2025",
+    "HairLength": "6.685",
+    "ColorHex": "#670E36",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Barnet",
+    "StreakEndDate": "25/09/1999",
+    "HairLength": "333.515",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Barnsley",
+    "StreakEndDate": "17/12/2022",
+    "HairLength": "36.575",
+    "ColorHex": "#E30613",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Barrow",
+    "StreakEndDate": "22/12/2023",
+    "HairLength": "23.625",
+    "ColorHex": "#67A7D7",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Birmingham City",
+    "StreakEndDate": "03/05/2025",
+    "HairLength": "6.195",
+    "ColorHex": "#0033A0",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Blackburn Rovers",
+    "StreakEndDate": "14/12/2024",
+    "HairLength": "11.095",
+    "ColorHex": "#1B449C",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "half"
+  },
+  {
+    "Team": "Blackpool",
+    "StreakEndDate": "11/08/2007",
+    "HairLength": "232.82",
+    "ColorHex": "#FF7F41",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Bolton Wanderers",
+    "StreakEndDate": "25/11/2023",
+    "HairLength": "24.57",
+    "ColorHex": "#1B3563",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Boston",
+    "StreakEndDate": "01/01/1933",
+    "HairLength": "1186.57",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Bournemouth",
+    "StreakEndDate": "30/10/2021",
+    "HairLength": "51.03",
+    "ColorHex": "#DA291C",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Bradford City",
+    "StreakEndDate": "10/08/2024",
+    "HairLength": "15.505",
+    "ColorHex": "#7A003C",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Brentford",
+    "StreakEndDate": "13/08/2021",
+    "HairLength": "53.76",
+    "ColorHex": "#D50000",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "striped"
+  },
+  {
+    "Team": "Brighton and Hove Albion",
+    "StreakEndDate": "17/04/2017",
+    "HairLength": "109.025",
+    "ColorHex": "#0057B8",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "striped"
+  },
+  {
+    "Team": "Bristol City",
+    "StreakEndDate": "12/02/2019",
+    "HairLength": "85.715",
+    "ColorHex": "#C8102E",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Bristol Rovers",
+    "StreakEndDate": "25/03/2016",
+    "HairLength": "122.605",
+    "ColorHex": "#0057B8",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "quarters"
+  },
+  {
+    "Team": "Bromley",
+    "StreakEndDate": "",
+    "HairLength": "1608.495",
+    "ColorHex": "#000000",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Burnley",
+    "StreakEndDate": "03/05/2025",
+    "HairLength": "6.195",
+    "ColorHex": "#6C1D45",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Burton Albion",
+    "StreakEndDate": "13/03/2021",
+    "HairLength": "59.115",
+    "ColorHex": "#FEDD00",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Bury",
+    "StreakEndDate": "27/09/2016",
+    "HairLength": "116.095",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Cambridge United",
+    "StreakEndDate": "26/12/2016",
+    "HairLength": "112.945",
+    "ColorHex": "#FFB81C",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Cardiff City",
+    "StreakEndDate": "24/02/2021",
+    "HairLength": "59.71",
+    "ColorHex": "#1E4892",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Carlisle United",
+    "StreakEndDate": "05/01/2019",
+    "HairLength": "87.045",
+    "ColorHex": "#0057B8",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Charlton Athletic",
+    "StreakEndDate": "03/11/2020",
+    "HairLength": "63.665",
+    "ColorHex": "#E41E2B",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Chelsea",
+    "StreakEndDate": "15/12/2024",
+    "HairLength": "11.06",
+    "ColorHex": "#034694",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Cheltenham Town",
+    "StreakEndDate": "29/02/2020",
+    "HairLength": "72.345",
+    "ColorHex": "#C8102E",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Chester",
+    "StreakEndDate": "15/04/2006",
+    "HairLength": "249.725",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Chesterfield",
+    "StreakEndDate": "16/08/2025",
+    "HairLength": "2.52",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Colchester United",
+    "StreakEndDate": "15/03/2025",
+    "HairLength": "7.91",
+    "ColorHex": "#0057B8",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Coventry City",
+    "StreakEndDate": "25/10/2025",
+    "HairLength": "0.07",
+    "ColorHex": "#75B2DD",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Crawley Town",
+    "StreakEndDate": "25/10/2011",
+    "HairLength": "179.06",
+    "ColorHex": "#C8102E",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Crewe Alexandra",
+    "StreakEndDate": "18/02/1995",
+    "HairLength": "392.315",
+    "ColorHex": "#E41E2B",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Crystal Palace",
+    "StreakEndDate": "19/04/2014",
+    "HairLength": "147.315",
+    "ColorHex": "#1B458F",
+    "AltColorHex": "#DA291C",
+    "ShirtType": "striped"
+  },
+  {
+    "Team": "Dag and Red",
+    "StreakEndDate": "01/03/2008",
+    "HairLength": "225.715",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Darlington",
+    "StreakEndDate": "15/11/2008",
+    "HairLength": "216.65",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Derby County",
+    "StreakEndDate": "09/12/2023",
+    "HairLength": "24.08",
+    "ColorHex": "#000000",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Doncaster Rovers",
+    "StreakEndDate": "09/08/2025",
+    "HairLength": "2.765",
+    "ColorHex": "#C8102E",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Everton",
+    "StreakEndDate": "12/04/2014",
+    "HairLength": "147.56",
+    "ColorHex": "#003399",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Exeter City",
+    "StreakEndDate": "20/11/2021",
+    "HairLength": "50.295",
+    "ColorHex": "#E41E2B",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Fleetwood Town",
+    "StreakEndDate": "22/02/2020",
+    "HairLength": "72.59",
+    "ColorHex": "#E41E2B",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Forest Green Rovers",
+    "StreakEndDate": "21/08/2021",
+    "HairLength": "53.48",
+    "ColorHex": "#78BE20",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Fulham",
+    "StreakEndDate": "20/11/2021",
+    "HairLength": "50.295",
+    "ColorHex": "#000000",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Gillingham",
+    "StreakEndDate": "19/08/2023",
+    "HairLength": "28.0",
+    "ColorHex": "#0057B8",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Grimsby Town",
+    "StreakEndDate": "",
+    "HairLength": "1608.495",
+    "ColorHex": "#000000",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "striped"
+  },
+  {
+    "Team": "Halifax",
+    "StreakEndDate": "24/05/1911",
+    "HairLength": "1462.825",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Harrogate Town",
+    "StreakEndDate": "01/01/1914",
+    "HairLength": "1429.47",
+    "ColorHex": "#FFE600",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Hartlepool United",
+    "StreakEndDate": "24/09/2011",
+    "HairLength": "180.145",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Hereford",
+    "StreakEndDate": "23/02/2008",
+    "HairLength": "225.96",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Huddersfield Town",
+    "StreakEndDate": "21/02/2017",
+    "HairLength": "110.95",
+    "ColorHex": "#0073CF",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Hull City",
+    "StreakEndDate": "13/03/2021",
+    "HairLength": "59.115",
+    "ColorHex": "#F6A800",
+    "AltColorHex": "#000000",
+    "ShirtType": "striped"
+  },
+  {
+    "Team": "Ipswich Town",
+    "StreakEndDate": "05/03/2024",
+    "HairLength": "21.035",
+    "ColorHex": "#0057B8",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Kidderminster",
+    "StreakEndDate": "",
+    "HairLength": "1608.495",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Leeds United",
+    "StreakEndDate": "18/08/2025",
+    "HairLength": "2.45",
+    "ColorHex": "#FFCD00",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Leicester City",
+    "StreakEndDate": "23/12/2023",
+    "HairLength": "23.59",
+    "ColorHex": "#003090",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Leyton Orient",
+    "StreakEndDate": "03/05/2025",
+    "HairLength": "6.195",
+    "ColorHex": "#C8102E",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Lincoln City",
+    "StreakEndDate": "01/04/2024",
+    "HairLength": "20.09",
+    "ColorHex": "#C8102E",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Liverpool",
+    "StreakEndDate": "20/09/2025",
+    "HairLength": "1.295",
+    "ColorHex": "#C8102E",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Luton Town",
+    "StreakEndDate": "16/02/2019",
+    "HairLength": "85.575",
+    "ColorHex": "#FF4F00",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Macclesfield Town",
+    "StreakEndDate": "26/02/2005",
+    "HairLength": "264.18",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Manchester City",
+    "StreakEndDate": "14/09/2024",
+    "HairLength": "14.28",
+    "ColorHex": "#6CABDD",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Manchester United",
+    "StreakEndDate": "14/08/2023",
+    "HairLength": "28.175",
+    "ColorHex": "#DA291C",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Mansfield Town",
+    "StreakEndDate": "05/10/2024",
+    "HairLength": "13.545",
+    "ColorHex": "#FF9E1B",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Middlesbrough",
+    "StreakEndDate": "24/10/2023",
+    "HairLength": "25.69",
+    "ColorHex": "#E30613",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Millwall",
+    "StreakEndDate": "04/05/2024",
+    "HairLength": "18.935",
+    "ColorHex": "#0B2C5A",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Milton Keynes Dons",
+    "StreakEndDate": "03/12/2024",
+    "HairLength": "11.48",
+    "ColorHex": "#B1B3B3",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Morecambe",
+    "StreakEndDate": "12/12/2009",
+    "HairLength": "202.93",
+    "ColorHex": "#C8102E",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Newcastle United",
+    "StreakEndDate": "16/04/2025",
+    "HairLength": "6.79",
+    "ColorHex": "#000000",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "striped"
+  },
+  {
+    "Team": "Newport County",
+    "StreakEndDate": "31/10/2020",
+    "HairLength": "63.77",
+    "ColorHex": "#FF8200",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Northampton Town",
+    "StreakEndDate": "01/10/2022",
+    "HairLength": "39.27",
+    "ColorHex": "#7A003C",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Norwich City",
+    "StreakEndDate": "14/09/2022",
+    "HairLength": "39.865",
+    "ColorHex": "#00A650",
+    "AltColorHex": "#F7D917",
+    "ShirtType": "quarters"
+  },
+  {
+    "Team": "Nottingham Forest",
+    "StreakEndDate": "06/01/2025",
+    "HairLength": "10.29",
+    "ColorHex": "#DD0000",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Notts County",
+    "StreakEndDate": "26/09/2017",
+    "HairLength": "103.355",
+    "ColorHex": "#000000",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "striped"
+  },
+  {
+    "Team": "Oldham Athletic",
+    "StreakEndDate": "23/08/2008",
+    "HairLength": "219.59",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Oxford United",
+    "StreakEndDate": "07/10/2023",
+    "HairLength": "26.285",
+    "ColorHex": "#FEDD00",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Peterborough United",
+    "StreakEndDate": "13/03/2024",
+    "HairLength": "20.755",
+    "ColorHex": "#0057B8",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Plymouth Argyle",
+    "StreakEndDate": "05/08/2023",
+    "HairLength": "28.49",
+    "ColorHex": "#00543D",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Port Vale",
+    "StreakEndDate": "26/10/2024",
+    "HairLength": "12.81",
+    "ColorHex": "#000000",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Portsmouth",
+    "StreakEndDate": "21/10/2023",
+    "HairLength": "25.795",
+    "ColorHex": "#1D428A",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Preston North End",
+    "StreakEndDate": "19/09/2023",
+    "HairLength": "26.915",
+    "ColorHex": "#16316C",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Queens Park Rangers",
+    "StreakEndDate": "16/10/2004",
+    "HairLength": "268.835",
+    "ColorHex": "#1B3F8B",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "hooped"
+  },
+  {
+    "Team": "Reading",
+    "StreakEndDate": "26/11/2016",
+    "HairLength": "113.995",
+    "ColorHex": "#003DA5",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "hooped"
+  },
+  {
+    "Team": "Rochdale",
+    "StreakEndDate": "02/01/2017",
+    "HairLength": "112.7",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Rotherham United",
+    "StreakEndDate": "13/02/2022",
+    "HairLength": "47.32",
+    "ColorHex": "#D50032",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Rushden and Diamonds",
+    "StreakEndDate": "21/04/2003",
+    "HairLength": "287.875",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Salford City",
+    "StreakEndDate": "04/01/2025",
+    "HairLength": "10.36",
+    "ColorHex": "#E41E2B",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Scarborough",
+    "StreakEndDate": "",
+    "HairLength": "1608.495",
+    "ColorHex": "#C8102E",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Scunthorpe United",
+    "StreakEndDate": "25/11/2017",
+    "HairLength": "101.255",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Sheffield United",
+    "StreakEndDate": "29/12/2022",
+    "HairLength": "36.155",
+    "ColorHex": "#EE2737",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "striped"
+  },
+  {
+    "Team": "Sheffield Weds",
+    "StreakEndDate": "11/03/2023",
+    "HairLength": "33.635",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Shrewsbury Town",
+    "StreakEndDate": "11/02/2023",
+    "HairLength": "34.615",
+    "ColorHex": "#1254A1",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Southampton",
+    "StreakEndDate": "20/08/2011",
+    "HairLength": "181.37",
+    "ColorHex": "#D71920",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "striped"
+  },
+  {
+    "Team": "Southend",
+    "StreakEndDate": "25/04/2015",
+    "HairLength": "134.33",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Stevenage",
+    "StreakEndDate": "15/08/2023",
+    "HairLength": "28.14",
+    "ColorHex": "#C8102E",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Stockport County",
+    "StreakEndDate": "09/08/2025",
+    "HairLength": "2.765",
+    "ColorHex": "#0057B8",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Stoke City",
+    "StreakEndDate": "23/02/2008",
+    "HairLength": "225.96",
+    "ColorHex": "#E03A3E",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "striped"
+  },
+  {
+    "Team": "Sunderland",
+    "StreakEndDate": "03/11/2018",
+    "HairLength": "89.25",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "striped"
+  },
+  {
+    "Team": "Sutton United",
+    "StreakEndDate": "",
+    "HairLength": "1608.495",
+    "ColorHex": "#C2A661",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Swansea City",
+    "StreakEndDate": "21/04/2025",
+    "HairLength": "6.615",
+    "ColorHex": "#000000",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Swindon Town",
+    "StreakEndDate": "14/12/2019",
+    "HairLength": "75.04",
+    "ColorHex": "#C8102E",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Torquay United",
+    "StreakEndDate": "14/02/2012",
+    "HairLength": "175.14",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Tottenham",
+    "StreakEndDate": "26/12/2018",
+    "HairLength": "87.395",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Tranmere Rovers",
+    "StreakEndDate": "14/10/2022",
+    "HairLength": "38.815",
+    "ColorHex": "#0057B8",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Walsall",
+    "StreakEndDate": "18/01/2025",
+    "HairLength": "9.87",
+    "ColorHex": "#D50032",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Watford",
+    "StreakEndDate": "02/04/2021",
+    "HairLength": "58.415",
+    "ColorHex": "#F7D917",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "West Bromwich Albion",
+    "StreakEndDate": "17/12/2022",
+    "HairLength": "36.575",
+    "ColorHex": "#041E42",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "West Ham United",
+    "StreakEndDate": "13/02/2006",
+    "HairLength": "251.86",
+    "ColorHex": "#7A263A",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Wigan Athletic",
+    "StreakEndDate": "25/09/2021",
+    "HairLength": "52.255",
+    "ColorHex": "#005596",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Wimbledon",
+    "StreakEndDate": "19/10/1996",
+    "HairLength": "371.0",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Wolverhampton Wanderers",
+    "StreakEndDate": "26/04/2025",
+    "HairLength": "6.44",
+    "ColorHex": "#FDB913",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Wrexham",
+    "StreakEndDate": "10/08/2024",
+    "HairLength": "15.505",
+    "ColorHex": "#C8102E",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Wycombe Wanderers",
+    "StreakEndDate": "26/11/2024",
+    "HairLength": "11.725",
+    "ColorHex": "#66A7C5",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "Yeovil",
+    "StreakEndDate": "16/02/2013",
+    "HairLength": "162.26",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  },
+  {
+    "Team": "York City",
+    "StreakEndDate": "25/03/2014",
+    "HairLength": "148.19",
+    "ColorHex": "#888888",
+    "AltColorHex": "#FFFFFF",
+    "ShirtType": "plain"
+  }
+]

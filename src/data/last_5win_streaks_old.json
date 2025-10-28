@@ -1,0 +1,698 @@
+[
+  {
+    "Team": "AFC Wimbledon",
+    "StreakEndDate": "23/04/2016",
+    "HairLength": "121.59",
+    "ColorHex": "#C1D22C"
+  },
+  {
+    "Team": "Accrington Stanley",
+    "StreakEndDate": "07/04/2018",
+    "HairLength": "96.6",
+    "ColorHex": "#322CD2"
+  },
+  {
+    "Team": "Aldershot",
+    "StreakEndDate": "03/03/2012",
+    "HairLength": "174.51",
+    "ColorHex": "#3DD22C"
+  },
+  {
+    "Team": "Arsenal",
+    "StreakEndDate": "24/08/2024",
+    "HairLength": "15.015",
+    "ColorHex": "#56D22C"
+  },
+  {
+    "Team": "Aston Villa",
+    "StreakEndDate": "19/04/2025",
+    "HairLength": "6.685",
+    "ColorHex": "#C7D22C"
+  },
+  {
+    "Team": "Barnet",
+    "StreakEndDate": "25/09/1999",
+    "HairLength": "333.515",
+    "ColorHex": "#2CD274"
+  },
+  {
+    "Team": "Barnsley",
+    "StreakEndDate": "17/12/2022",
+    "HairLength": "36.575",
+    "ColorHex": "#712CD2"
+  },
+  {
+    "Team": "Barrow",
+    "StreakEndDate": "22/12/2023",
+    "HairLength": "23.625",
+    "ColorHex": "#2CD25E"
+  },
+  {
+    "Team": "Birmingham City",
+    "StreakEndDate": "03/05/2025",
+    "HairLength": "6.195",
+    "ColorHex": "#9DD22C"
+  },
+  {
+    "Team": "Blackburn Rovers",
+    "StreakEndDate": "14/12/2024",
+    "HairLength": "11.095",
+    "ColorHex": "#CAD22C"
+  },
+  {
+    "Team": "Blackpool",
+    "StreakEndDate": "11/08/2007",
+    "HairLength": "232.82",
+    "ColorHex": "#D22C8D"
+  },
+  {
+    "Team": "Bolton Wanderers",
+    "StreakEndDate": "25/11/2023",
+    "HairLength": "24.57",
+    "ColorHex": "#952CD2"
+  },
+  {
+    "Team": "Boston",
+    "StreakEndDate": "01/01/1933",
+    "HairLength": "1186.57",
+    "ColorHex": "#D22CAB"
+  },
+  {
+    "Team": "Bournemouth",
+    "StreakEndDate": "30/10/2021",
+    "HairLength": "51.03",
+    "ColorHex": "#CA2CD2"
+  },
+  {
+    "Team": "Bradford City",
+    "StreakEndDate": "10/08/2024",
+    "HairLength": "15.505",
+    "ColorHex": "#2C42D2"
+  },
+  {
+    "Team": "Brentford",
+    "StreakEndDate": "13/08/2021",
+    "HairLength": "53.76",
+    "ColorHex": "#D22CD2"
+  },
+  {
+    "Team": "Brighton and Hove Albion",
+    "StreakEndDate": "17/04/2017",
+    "HairLength": "109.025",
+    "ColorHex": "#D2982C"
+  },
+  {
+    "Team": "Bristol City",
+    "StreakEndDate": "12/02/2019",
+    "HairLength": "85.715",
+    "ColorHex": "#2CD22F"
+  },
+  {
+    "Team": "Bristol Rovers",
+    "StreakEndDate": "25/03/2016",
+    "HairLength": "122.605",
+    "ColorHex": "#D2C72C"
+  },
+  {
+    "Team": "Bromley",
+    "StreakEndDate": "",
+    "HairLength": "1608.495",
+    "ColorHex": "#D22C79"
+  },
+  {
+    "Team": "Burnley",
+    "StreakEndDate": "03/05/2025",
+    "HairLength": "6.195",
+    "ColorHex": "#48D22C"
+  },
+  {
+    "Team": "Burton Albion",
+    "StreakEndDate": "13/03/2021",
+    "HairLength": "59.115",
+    "ColorHex": "#D22C32"
+  },
+  {
+    "Team": "Bury",
+    "StreakEndDate": "27/09/2016",
+    "HairLength": "116.095",
+    "ColorHex": "#66D22C"
+  },
+  {
+    "Team": "Cambridge United",
+    "StreakEndDate": "26/12/2016",
+    "HairLength": "112.945",
+    "ColorHex": "#582CD2"
+  },
+  {
+    "Team": "Cardiff City",
+    "StreakEndDate": "24/02/2021",
+    "HairLength": "59.71",
+    "ColorHex": "#2CABD2"
+  },
+  {
+    "Team": "Carlisle United",
+    "StreakEndDate": "05/01/2019",
+    "HairLength": "87.045",
+    "ColorHex": "#D2582C"
+  },
+  {
+    "Team": "Charlton Athletic",
+    "StreakEndDate": "03/11/2020",
+    "HairLength": "63.665",
+    "ColorHex": "#D22C3A"
+  },
+  {
+    "Team": "Chelsea",
+    "StreakEndDate": "15/12/2024",
+    "HairLength": "11.06",
+    "ColorHex": "#2C61D2"
+  },
+  {
+    "Team": "Cheltenham Town",
+    "StreakEndDate": "29/02/2020",
+    "HairLength": "72.345",
+    "ColorHex": "#50D22C"
+  },
+  {
+    "Team": "Chester",
+    "StreakEndDate": "15/04/2006",
+    "HairLength": "249.725",
+    "ColorHex": "#2CD295"
+  },
+  {
+    "Team": "Chesterfield",
+    "StreakEndDate": "16/08/2025",
+    "HairLength": "2.52",
+    "ColorHex": "#B6D22C"
+  },
+  {
+    "Team": "Colchester United",
+    "StreakEndDate": "15/03/2025",
+    "HairLength": "7.91",
+    "ColorHex": "#D2322C"
+  },
+  {
+    "Team": "Coventry City",
+    "StreakEndDate": "25/10/2025",
+    "HairLength": "0.07",
+    "ColorHex": "#2CD287"
+  },
+  {
+    "Team": "Crawley Town",
+    "StreakEndDate": "25/10/2011",
+    "HairLength": "179.06",
+    "ColorHex": "#5B2CD2"
+  },
+  {
+    "Team": "Crewe Alexandra",
+    "StreakEndDate": "18/02/1995",
+    "HairLength": "392.315",
+    "ColorHex": "#D22C6E"
+  },
+  {
+    "Team": "Crystal Palace",
+    "StreakEndDate": "19/04/2014",
+    "HairLength": "147.315",
+    "ColorHex": "#CA2CD2"
+  },
+  {
+    "Team": "Dag and Red",
+    "StreakEndDate": "01/03/2008",
+    "HairLength": "225.715",
+    "ColorHex": "#B32CD2"
+  },
+  {
+    "Team": "Darlington",
+    "StreakEndDate": "15/11/2008",
+    "HairLength": "216.65",
+    "ColorHex": "#7C2CD2"
+  },
+  {
+    "Team": "Derby County",
+    "StreakEndDate": "09/12/2023",
+    "HairLength": "24.08",
+    "ColorHex": "#B1D22C"
+  },
+  {
+    "Team": "Doncaster Rovers",
+    "StreakEndDate": "09/08/2025",
+    "HairLength": "2.765",
+    "ColorHex": "#2CCCD2"
+  },
+  {
+    "Team": "Everton",
+    "StreakEndDate": "12/04/2014",
+    "HairLength": "147.56",
+    "ColorHex": "#D2CA2C"
+  },
+  {
+    "Team": "Exeter City",
+    "StreakEndDate": "20/11/2021",
+    "HairLength": "50.295",
+    "ColorHex": "#5ED22C"
+  },
+  {
+    "Team": "Fleetwood Town",
+    "StreakEndDate": "22/02/2020",
+    "HairLength": "72.59",
+    "ColorHex": "#D24B2C"
+  },
+  {
+    "Team": "Forest Green Rovers",
+    "StreakEndDate": "21/08/2021",
+    "HairLength": "53.48",
+    "ColorHex": "#D2B32C"
+  },
+  {
+    "Team": "Fulham",
+    "StreakEndDate": "20/11/2021",
+    "HairLength": "50.295",
+    "ColorHex": "#CFD22C"
+  },
+  {
+    "Team": "Gillingham",
+    "StreakEndDate": "19/08/2023",
+    "HairLength": "28.0",
+    "ColorHex": "#2C42D2"
+  },
+  {
+    "Team": "Grimsby Town",
+    "StreakEndDate": "",
+    "HairLength": "1608.495",
+    "ColorHex": "#2CD253"
+  },
+  {
+    "Team": "Halifax",
+    "StreakEndDate": "24/05/1911",
+    "HairLength": "1462.825",
+    "ColorHex": "#2C2CD2"
+  },
+  {
+    "Team": "Harrogate Town",
+    "StreakEndDate": "01/01/1914",
+    "HairLength": "1429.47",
+    "ColorHex": "#D22CCC"
+  },
+  {
+    "Team": "Hartlepool United",
+    "StreakEndDate": "24/09/2011",
+    "HairLength": "180.145",
+    "ColorHex": "#D2CA2C"
+  },
+  {
+    "Team": "Hereford",
+    "StreakEndDate": "23/02/2008",
+    "HairLength": "225.96",
+    "ColorHex": "#D22C95"
+  },
+  {
+    "Team": "Huddersfield Town",
+    "StreakEndDate": "21/02/2017",
+    "HairLength": "110.95",
+    "ColorHex": "#D22C6C"
+  },
+  {
+    "Team": "Hull City",
+    "StreakEndDate": "13/03/2021",
+    "HairLength": "59.115",
+    "ColorHex": "#2CD271"
+  },
+  {
+    "Team": "Ipswich Town",
+    "StreakEndDate": "05/03/2024",
+    "HairLength": "21.035",
+    "ColorHex": "#8AD22C"
+  },
+  {
+    "Team": "Kidderminster",
+    "StreakEndDate": "",
+    "HairLength": "1608.495",
+    "ColorHex": "#662CD2"
+  },
+  {
+    "Team": "Leeds United",
+    "StreakEndDate": "18/08/2025",
+    "HairLength": "2.45",
+    "ColorHex": "#2CD25B"
+  },
+  {
+    "Team": "Leicester City",
+    "StreakEndDate": "23/12/2023",
+    "HairLength": "23.59",
+    "ColorHex": "#2CD2A0"
+  },
+  {
+    "Team": "Leyton Orient",
+    "StreakEndDate": "03/05/2025",
+    "HairLength": "6.195",
+    "ColorHex": "#2CC7D2"
+  },
+  {
+    "Team": "Lincoln City",
+    "StreakEndDate": "01/04/2024",
+    "HairLength": "20.09",
+    "ColorHex": "#D2B32C"
+  },
+  {
+    "Team": "Liverpool",
+    "StreakEndDate": "20/09/2025",
+    "HairLength": "1.295",
+    "ColorHex": "#2CD2AE"
+  },
+  {
+    "Team": "Luton Town",
+    "StreakEndDate": "16/02/2019",
+    "HairLength": "85.575",
+    "ColorHex": "#2CD2B3"
+  },
+  {
+    "Team": "Macclesfield Town",
+    "StreakEndDate": "26/02/2005",
+    "HairLength": "264.18",
+    "ColorHex": "#A0D22C"
+  },
+  {
+    "Team": "Manchester City",
+    "StreakEndDate": "14/09/2024",
+    "HairLength": "14.28",
+    "ColorHex": "#D22C9B"
+  },
+  {
+    "Team": "Manchester United",
+    "StreakEndDate": "14/08/2023",
+    "HairLength": "28.175",
+    "ColorHex": "#D22C4D"
+  },
+  {
+    "Team": "Mansfield Town",
+    "StreakEndDate": "05/10/2024",
+    "HairLength": "13.545",
+    "ColorHex": "#322CD2"
+  },
+  {
+    "Team": "Middlesbrough",
+    "StreakEndDate": "24/10/2023",
+    "HairLength": "25.69",
+    "ColorHex": "#D22C4D"
+  },
+  {
+    "Team": "Millwall",
+    "StreakEndDate": "04/05/2024",
+    "HairLength": "18.935",
+    "ColorHex": "#2C66D2"
+  },
+  {
+    "Team": "Milton Keynes Dons",
+    "StreakEndDate": "03/12/2024",
+    "HairLength": "11.48",
+    "ColorHex": "#D2502C"
+  },
+  {
+    "Team": "Morecambe",
+    "StreakEndDate": "12/12/2009",
+    "HairLength": "202.93",
+    "ColorHex": "#2CD2BC"
+  },
+  {
+    "Team": "Newcastle United",
+    "StreakEndDate": "16/04/2025",
+    "HairLength": "6.79",
+    "ColorHex": "#D2482C"
+  },
+  {
+    "Team": "Newport County",
+    "StreakEndDate": "31/10/2020",
+    "HairLength": "63.77",
+    "ColorHex": "#BFD22C"
+  },
+  {
+    "Team": "Northampton Town",
+    "StreakEndDate": "01/10/2022",
+    "HairLength": "39.27",
+    "ColorHex": "#2CD2A0"
+  },
+  {
+    "Team": "Norwich City",
+    "StreakEndDate": "14/09/2022",
+    "HairLength": "39.865",
+    "ColorHex": "#2CD292"
+  },
+  {
+    "Team": "Nottingham Forest",
+    "StreakEndDate": "06/01/2025",
+    "HairLength": "10.29",
+    "ColorHex": "#2CC1D2"
+  },
+  {
+    "Team": "Notts County",
+    "StreakEndDate": "26/09/2017",
+    "HairLength": "103.355",
+    "ColorHex": "#D2CF2C"
+  },
+  {
+    "Team": "Oldham Athletic",
+    "StreakEndDate": "23/08/2008",
+    "HairLength": "219.59",
+    "ColorHex": "#3FD22C"
+  },
+  {
+    "Team": "Oxford United",
+    "StreakEndDate": "07/10/2023",
+    "HairLength": "26.285",
+    "ColorHex": "#D22C87"
+  },
+  {
+    "Team": "Peterborough United",
+    "StreakEndDate": "13/03/2024",
+    "HairLength": "20.755",
+    "ColorHex": "#4D2CD2"
+  },
+  {
+    "Team": "Plymouth Argyle",
+    "StreakEndDate": "05/08/2023",
+    "HairLength": "28.49",
+    "ColorHex": "#902CD2"
+  },
+  {
+    "Team": "Port Vale",
+    "StreakEndDate": "26/10/2024",
+    "HairLength": "12.81",
+    "ColorHex": "#612CD2"
+  },
+  {
+    "Team": "Portsmouth",
+    "StreakEndDate": "21/10/2023",
+    "HairLength": "25.795",
+    "ColorHex": "#2CD295"
+  },
+  {
+    "Team": "Preston North End",
+    "StreakEndDate": "19/09/2023",
+    "HairLength": "26.915",
+    "ColorHex": "#2C77D2"
+  },
+  {
+    "Team": "Queens Park Rangers",
+    "StreakEndDate": "16/10/2004",
+    "HairLength": "268.835",
+    "ColorHex": "#9DD22C"
+  },
+  {
+    "Team": "Reading",
+    "StreakEndDate": "26/11/2016",
+    "HairLength": "113.995",
+    "ColorHex": "#922CD2"
+  },
+  {
+    "Team": "Rochdale",
+    "StreakEndDate": "02/01/2017",
+    "HairLength": "112.7",
+    "ColorHex": "#50D22C"
+  },
+  {
+    "Team": "Rotherham United",
+    "StreakEndDate": "13/02/2022",
+    "HairLength": "47.32",
+    "ColorHex": "#B3D22C"
+  },
+  {
+    "Team": "Rushden and Diamonds",
+    "StreakEndDate": "21/04/2003",
+    "HairLength": "287.875",
+    "ColorHex": "#582CD2"
+  },
+  {
+    "Team": "Salford City",
+    "StreakEndDate": "04/01/2025",
+    "HairLength": "10.36",
+    "ColorHex": "#8A2CD2"
+  },
+  {
+    "Team": "Scarborough",
+    "StreakEndDate": "",
+    "HairLength": "1608.495",
+    "ColorHex": "#982CD2"
+  },
+  {
+    "Team": "Scunthorpe United",
+    "StreakEndDate": "25/11/2017",
+    "HairLength": "101.255",
+    "ColorHex": "#342CD2"
+  },
+  {
+    "Team": "Sheffield United",
+    "StreakEndDate": "29/12/2022",
+    "HairLength": "36.155",
+    "ColorHex": "#D28D2C"
+  },
+  {
+    "Team": "Sheffield Weds",
+    "StreakEndDate": "11/03/2023",
+    "HairLength": "33.635",
+    "ColorHex": "#902CD2"
+  },
+  {
+    "Team": "Shrewsbury Town",
+    "StreakEndDate": "11/02/2023",
+    "HairLength": "34.615",
+    "ColorHex": "#D22CD2"
+  },
+  {
+    "Team": "Southampton",
+    "StreakEndDate": "20/08/2011",
+    "HairLength": "181.37",
+    "ColorHex": "#A8D22C"
+  },
+  {
+    "Team": "Southend",
+    "StreakEndDate": "25/04/2015",
+    "HairLength": "134.33",
+    "ColorHex": "#2CD2C7"
+  },
+  {
+    "Team": "Stevenage",
+    "StreakEndDate": "15/08/2023",
+    "HairLength": "28.14",
+    "ColorHex": "#61D22C"
+  },
+  {
+    "Team": "Stockport County",
+    "StreakEndDate": "09/08/2025",
+    "HairLength": "2.765",
+    "ColorHex": "#D22C85"
+  },
+  {
+    "Team": "Stoke City",
+    "StreakEndDate": "23/02/2008",
+    "HairLength": "225.96",
+    "ColorHex": "#2CC7D2"
+  },
+  {
+    "Team": "Sunderland",
+    "StreakEndDate": "03/11/2018",
+    "HairLength": "89.25",
+    "ColorHex": "#D22CB6"
+  },
+  {
+    "Team": "Sutton United",
+    "StreakEndDate": "",
+    "HairLength": "1608.495",
+    "ColorHex": "#D22C50"
+  },
+  {
+    "Team": "Swansea City",
+    "StreakEndDate": "21/04/2025",
+    "HairLength": "6.615",
+    "ColorHex": "#D2322C"
+  },
+  {
+    "Team": "Swindon Town",
+    "StreakEndDate": "14/12/2019",
+    "HairLength": "75.04",
+    "ColorHex": "#D23F2C"
+  },
+  {
+    "Team": "Torquay United",
+    "StreakEndDate": "14/02/2012",
+    "HairLength": "175.14",
+    "ColorHex": "#2CD279"
+  },
+  {
+    "Team": "Tottenham",
+    "StreakEndDate": "26/12/2018",
+    "HairLength": "87.395",
+    "ColorHex": "#2CD25B"
+  },
+  {
+    "Team": "Tranmere Rovers",
+    "StreakEndDate": "14/10/2022",
+    "HairLength": "38.815",
+    "ColorHex": "#2CBCD2"
+  },
+  {
+    "Team": "Walsall",
+    "StreakEndDate": "18/01/2025",
+    "HairLength": "9.87",
+    "ColorHex": "#2CBCD2"
+  },
+  {
+    "Team": "Watford",
+    "StreakEndDate": "02/04/2021",
+    "HairLength": "58.415",
+    "ColorHex": "#D22C3D"
+  },
+  {
+    "Team": "West Bromwich Albion",
+    "StreakEndDate": "17/12/2022",
+    "HairLength": "36.575",
+    "ColorHex": "#2CB6D2"
+  },
+  {
+    "Team": "West Ham United",
+    "StreakEndDate": "13/02/2006",
+    "HairLength": "251.86",
+    "ColorHex": "#D22CA8"
+  },
+  {
+    "Team": "Wigan Athletic",
+    "StreakEndDate": "25/09/2021",
+    "HairLength": "52.255",
+    "ColorHex": "#D22CB9"
+  },
+  {
+    "Team": "Wimbledon",
+    "StreakEndDate": "19/10/1996",
+    "HairLength": "371.0",
+    "ColorHex": "#2CD24B"
+  },
+  {
+    "Team": "Wolverhampton Wanderers",
+    "StreakEndDate": "26/04/2025",
+    "HairLength": "6.44",
+    "ColorHex": "#2CD27C"
+  },
+  {
+    "Team": "Wrexham",
+    "StreakEndDate": "10/08/2024",
+    "HairLength": "15.505",
+    "ColorHex": "#8D2CD2"
+  },
+  {
+    "Team": "Wycombe Wanderers",
+    "StreakEndDate": "26/11/2024",
+    "HairLength": "11.725",
+    "ColorHex": "#2CD298"
+  },
+  {
+    "Team": "Yeovil",
+    "StreakEndDate": "16/02/2013",
+    "HairLength": "162.26",
+    "ColorHex": "#A62CD2"
+  },
+  {
+    "Team": "York City",
+    "StreakEndDate": "25/03/2014",
+    "HairLength": "148.19",
+    "ColorHex": "#ABD22C"
+  }
+]
