@@ -3,8 +3,8 @@
     "Team": "AFC Wimbledon",
     "StreakEndDate": "23/04/2016",
     "HairLength": "121.59",
-    "ColorHex": "#888888",
-    "AltColorHex": "#FFFFFF",
+    "ColorHex": "#002366",
+    "AltColorHex": "#FFDE21",
     "ShirtType": "plain"
   },
   {
@@ -19,8 +19,8 @@
     "Team": "Aldershot",
     "StreakEndDate": "03/03/2012",
     "HairLength": "174.51",
-    "ColorHex": "#888888",
-    "AltColorHex": "#FFFFFF",
+    "ColorHex": "#DA291C",
+    "AltColorHex": "#1B458F",
     "ShirtType": "plain"
   },
   {
@@ -43,9 +43,9 @@
     "Team": "Barnet",
     "StreakEndDate": "25/09/1999",
     "HairLength": "333.515",
-    "ColorHex": "#888888",
-    "AltColorHex": "#FFFFFF",
-    "ShirtType": "plain"
+    "ColorHex": "#F6A800",
+    "AltColorHex": "#000000",
+    "ShirtType": "striped"
   },
   {
     "Team": "Barnsley",
@@ -99,8 +99,8 @@
     "Team": "Boston",
     "StreakEndDate": "01/01/1933",
     "HairLength": "1186.57",
-    "ColorHex": "#888888",
-    "AltColorHex": "#FFFFFF",
+    "ColorHex": "#F7D917",
+    "AltColorHex": "#000000",
     "ShirtType": "plain"
   },
   {
@@ -179,7 +179,7 @@
     "Team": "Bury",
     "StreakEndDate": "27/09/2016",
     "HairLength": "116.095",
-    "ColorHex": "#888888",
+    "ColorHex": "#FFFFFF",
     "AltColorHex": "#FFFFFF",
     "ShirtType": "plain"
   },
@@ -827,7 +827,7 @@
     "Team": "Tottenham",
     "StreakEndDate": "26/12/2018",
     "HairLength": "87.395",
-    "ColorHex": "#888888",
+    "ColorHex": "#FFFFFF",
     "AltColorHex": "#FFFFFF",
     "ShirtType": "plain"
   },
@@ -880,14 +880,6 @@
     "ShirtType": "plain"
   },
   {
-    "Team": "Wimbledon",
-    "StreakEndDate": "19/10/1996",
-    "HairLength": "371.0",
-    "ColorHex": "#888888",
-    "AltColorHex": "#FFFFFF",
-    "ShirtType": "plain"
-  },
-  {
     "Team": "Wolverhampton Wanderers",
     "StreakEndDate": "26/04/2025",
     "HairLength": "6.44",
@@ -915,15 +907,15 @@
     "Team": "Yeovil",
     "StreakEndDate": "16/02/2013",
     "HairLength": "162.26",
-    "ColorHex": "#888888",
+    "ColorHex": "#00ff00",
     "AltColorHex": "#FFFFFF",
-    "ShirtType": "plain"
+    "ShirtType": "hooped"
   },
   {
     "Team": "York City",
     "StreakEndDate": "25/03/2014",
     "HairLength": "148.19",
-    "ColorHex": "#888888",
+    "ColorHex": "#ff0000",
     "AltColorHex": "#FFFFFF",
     "ShirtType": "plain"
   }
