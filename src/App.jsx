@@ -290,7 +290,7 @@ export default function App() {
             </div>
           </div>
         ) : (
-          <div style={{ fontSize: 14, color: '#666', marginTop: 12 }}>
+          <div style={{ fontSize: 14, color: '#fff', marginTop: 12 }}>
             Start typing a team to see how long your hair would be.
           </div>
         )}
