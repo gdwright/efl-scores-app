@@ -36,7 +36,7 @@
     "StreakEndDate": "19/04/2025",
     "HairLength": "6.685",
     "ColorHex": "#670E36",
-    "AltColorHex": "#FFFFFF",
+    "AltColorHex": "#6CABDD",
     "ShirtType": "plain"
   },
   {
@@ -220,7 +220,7 @@
     "StreakEndDate": "15/12/2024",
     "HairLength": "11.06",
     "ColorHex": "#034694",
-    "AltColorHex": "#FFFFFF",
+    "AltColorHex": "#034694",
     "ShirtType": "plain"
   },
   {
@@ -235,15 +235,15 @@
     "Team": "Chester",
     "StreakEndDate": "15/04/2006",
     "HairLength": "249.725",
-    "ColorHex": "#888888",
+    "ColorHex": "#4169E1",
     "AltColorHex": "#FFFFFF",
-    "ShirtType": "plain"
+    "ShirtType": "striped"
   },
   {
     "Team": "Chesterfield",
     "StreakEndDate": "16/08/2025",
     "HairLength": "2.52",
-    "ColorHex": "#888888",
+    "ColorHex": "#4169E1",
     "AltColorHex": "#FFFFFF",
     "ShirtType": "plain"
   },
@@ -288,20 +288,20 @@
     "ShirtType": "striped"
   },
   {
-    "Team": "Dag and Red",
+    "Team": "Dagenham & Redbridge",
     "StreakEndDate": "01/03/2008",
     "HairLength": "225.715",
-    "ColorHex": "#888888",
-    "AltColorHex": "#FFFFFF",
-    "ShirtType": "plain"
+    "ColorHex": "#1B458F",
+    "AltColorHex": "#DA291C",
+    "ShirtType": "hooped"
   },
   {
     "Team": "Darlington",
     "StreakEndDate": "15/11/2008",
     "HairLength": "216.65",
-    "ColorHex": "#888888",
+    "ColorHex": "#000000",
     "AltColorHex": "#FFFFFF",
-    "ShirtType": "plain"
+    "ShirtType": "hooped"
   },
   {
     "Team": "Derby County",
@@ -379,8 +379,8 @@
     "Team": "Halifax",
     "StreakEndDate": "24/05/1911",
     "HairLength": "1462.825",
-    "ColorHex": "#888888",
-    "AltColorHex": "#FFFFFF",
+    "ColorHex": "#305cde",
+    "AltColorHex": "#305cde",
     "ShirtType": "plain"
   },
   {
@@ -395,16 +395,16 @@
     "Team": "Hartlepool United",
     "StreakEndDate": "24/09/2011",
     "HairLength": "180.145",
-    "ColorHex": "#888888",
+    "ColorHex": "#305cde",
     "AltColorHex": "#FFFFFF",
-    "ShirtType": "plain"
+    "ShirtType": "striped"
   },
   {
     "Team": "Hereford",
     "StreakEndDate": "23/02/2008",
     "HairLength": "225.96",
-    "ColorHex": "#888888",
-    "AltColorHex": "#FFFFFF",
+    "ColorHex": "#FFFFFF",
+    "AltColorHex": "#000000",
     "ShirtType": "plain"
   },
   {
@@ -435,9 +435,9 @@
     "Team": "Kidderminster",
     "StreakEndDate": "",
     "HairLength": "1608.495",
-    "ColorHex": "#888888",
+    "ColorHex": "#C8102E",
     "AltColorHex": "#FFFFFF",
-    "ShirtType": "plain"
+    "ShirtType": "half"
   },
   {
     "Team": "Leeds United",
@@ -491,8 +491,8 @@
     "Team": "Macclesfield Town",
     "StreakEndDate": "26/02/2005",
     "HairLength": "264.18",
-    "ColorHex": "#888888",
-    "AltColorHex": "#FFFFFF",
+    "ColorHex": "#034694",
+    "AltColorHex": "#034694",
     "ShirtType": "plain"
   },
   {
@@ -603,8 +603,8 @@
     "Team": "Oldham Athletic",
     "StreakEndDate": "23/08/2008",
     "HairLength": "219.59",
-    "ColorHex": "#888888",
-    "AltColorHex": "#FFFFFF",
+    "ColorHex": "#034694",
+    "AltColorHex": "#034694",
     "ShirtType": "plain"
   },
   {
@@ -675,23 +675,15 @@
     "Team": "Rochdale",
     "StreakEndDate": "02/01/2017",
     "HairLength": "112.7",
-    "ColorHex": "#888888",
-    "AltColorHex": "#FFFFFF",
-    "ShirtType": "plain"
+    "ColorHex": "#034694",
+    "AltColorHex": "#000000",
+    "ShirtType": "striped"
   },
   {
     "Team": "Rotherham United",
     "StreakEndDate": "13/02/2022",
     "HairLength": "47.32",
     "ColorHex": "#D50032",
-    "AltColorHex": "#FFFFFF",
-    "ShirtType": "plain"
-  },
-  {
-    "Team": "Rushden and Diamonds",
-    "StreakEndDate": "21/04/2003",
-    "HairLength": "287.875",
-    "ColorHex": "#888888",
     "AltColorHex": "#FFFFFF",
     "ShirtType": "plain"
   },
@@ -715,9 +707,9 @@
     "Team": "Scunthorpe United",
     "StreakEndDate": "25/11/2017",
     "HairLength": "101.255",
-    "ColorHex": "#888888",
-    "AltColorHex": "#FFFFFF",
-    "ShirtType": "plain"
+    "ColorHex": "#670E36",
+    "AltColorHex": "#6CABDD",
+    "ShirtType": "striped"
   },
   {
     "Team": "Sheffield United",
@@ -728,12 +720,12 @@
     "ShirtType": "striped"
   },
   {
-    "Team": "Sheffield Weds",
+    "Team": "Sheffield Wednesday",
     "StreakEndDate": "11/03/2023",
     "HairLength": "33.635",
-    "ColorHex": "#888888",
+    "ColorHex": "#305CDE",
     "AltColorHex": "#FFFFFF",
-    "ShirtType": "plain"
+    "ShirtType": "striped"
   },
   {
     "Team": "Shrewsbury Town",
@@ -755,7 +747,7 @@
     "Team": "Southend",
     "StreakEndDate": "25/04/2015",
     "HairLength": "134.33",
-    "ColorHex": "#888888",
+    "ColorHex": "#305CDE",
     "AltColorHex": "#FFFFFF",
     "ShirtType": "plain"
   },
@@ -787,7 +779,7 @@
     "Team": "Sunderland",
     "StreakEndDate": "03/11/2018",
     "HairLength": "89.25",
-    "ColorHex": "#888888",
+    "ColorHex": "#E03A3E",
     "AltColorHex": "#FFFFFF",
     "ShirtType": "striped"
   },
@@ -819,8 +811,8 @@
     "Team": "Torquay United",
     "StreakEndDate": "14/02/2012",
     "HairLength": "175.14",
-    "ColorHex": "#888888",
-    "AltColorHex": "#FFFFFF",
+    "ColorHex": "#FFDE21",
+    "AltColorHex": "#002366",
     "ShirtType": "plain"
   },
   {
@@ -868,7 +860,7 @@
     "StreakEndDate": "13/02/2006",
     "HairLength": "251.86",
     "ColorHex": "#7A263A",
-    "AltColorHex": "#FFFFFF",
+    "AltColorHex": "#6CABDD",
     "ShirtType": "plain"
   },
   {
